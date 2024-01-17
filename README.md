@@ -1,2 +1,3 @@
 ### Examples:
-- [iipmooviewer with annotations](./iipmooviewer.htm)
+- [iipmooviewer](./iipmooviewer/index.htm)
+- [iipmooviewer with annotations](./iipmooviewer/annotations.htm)
